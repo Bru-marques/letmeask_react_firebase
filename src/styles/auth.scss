@@ -5,7 +5,7 @@
 
   aside {
     flex: 7;
-    background-color: #835afd;
+    background-color: #403363; //#cf64b8; #835afd;
     color: #fff;
     display: flex;
     flex-direction: column;
@@ -58,7 +58,7 @@
     form {
       input {
         height: 50px;
-        border-radius: 8px;
+        border-radius: 5px;
         padding: 0 16px;
         background: #fff;
         border: 1px solid #a8a8b3;
@@ -79,7 +79,7 @@
       margin-top: 16px;
 
       a {
-        color: #e559f9;
+        color: #c51bdb;
       }
     }
   }
@@ -87,7 +87,7 @@
   .create-room {
     margin-top: 64px;
     height: 50px;
-    border-radius: 8px;
+    border-radius: 5px;
     font-weight: 500;
     background: #ea4335;
     color: #fff;

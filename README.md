@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  <img alt="Letmeask" src="https://github.com/Bru-marques/letmeask_react_firebase/blob/main/src/assets/shield.png" width="460px">
 </p>
 
 ## 🧪 Technologies

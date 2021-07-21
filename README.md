@@ -1,3 +1,7 @@
+<p align='center'>
+  Go live: https://letmeask-e972c.web.app/
+</p> 
+
 <p align="center">
   <img alt="Letmeask" src="https://github.com/Bru-marques/letmeask_react_firebase/blob/main/src/assets/shield.png" width="460px">
 </p>
